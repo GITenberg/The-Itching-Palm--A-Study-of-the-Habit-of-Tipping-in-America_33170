@@ -1,0 +1,33 @@
+_repo: The-Itching-Palm--A-Study-of-the-Habit-of-Tipping-in-America_33170
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, William R. (William Rufus)
+    alias: Scott, William Rufus
+    birthdate: 1886
+    gutenberg_agent_id: '36240'
+    url: http://www.gutenberg.org/2009/agents/36240
+description: ''
+gutenberg_issued: '2010-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33170'
+  lccn: '16022972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tipping'
+- !lcc 'HD'
+tableOfContents: Flunkyism in America -- On personal liberty -- Barbary pirates --
+  Personnel and distribution -- The economics of tipping -- The ethics of tipping
+  -- The psychology of tipping -- The literature of tipping -- Tipping and the stage
+  -- The employee viewpoint -- The employer viewpoint -- One step forward -- The sleeping-car
+  phase -- The government and tipping -- Laws against tipping -- Samuel Gompers on
+  tipping -- The way out.
+title: 'The Itching Palm: A Study of the Habit of Tipping in America'
+url: http://www.gutenberg.org/ebooks/33170
